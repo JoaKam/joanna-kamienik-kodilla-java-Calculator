@@ -1,6 +1,6 @@
 class Calculator {
 
-    private Calculator(){
+    public Calculator(){
     }
 
     public void add2Numbers (int firstNumber, int secondNumber){
